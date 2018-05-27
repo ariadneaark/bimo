@@ -1,0 +1,2 @@
+<a class="navbar-brand" href="index.php"><img src="images/bike1.png" alt="Logo" style="margin-top: -15px; margin-right: -100px;"></a>
+<a class="navbar-brand hidden" href="index.php"><img src="images/bike2.png" alt="Logo"></a>
